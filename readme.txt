@@ -4,3 +4,5 @@ This is a change remotely made and will need to be pulled into local repo.
 Another change in readme.txt
 Another change ( testing )
 a third commit
+This branch is ahead by one commit
+This branch is ahead by two commits
